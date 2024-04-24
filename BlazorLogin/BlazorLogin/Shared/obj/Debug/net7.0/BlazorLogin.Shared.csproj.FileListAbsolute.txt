@@ -10,3 +10,15 @@ E:\WorkSpaceAD\YOUTUBE\101_FUNCIONALIDAD LOGIN BLAZOR\BlazorLogin\BlazorLogin\Sh
 E:\WorkSpaceAD\YOUTUBE\101_FUNCIONALIDAD LOGIN BLAZOR\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\refint\BlazorLogin.Shared.dll
 E:\WorkSpaceAD\YOUTUBE\101_FUNCIONALIDAD LOGIN BLAZOR\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.pdb
 E:\WorkSpaceAD\YOUTUBE\101_FUNCIONALIDAD LOGIN BLAZOR\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\ref\BlazorLogin.Shared.dll
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\bin\Debug\net7.0\BlazorLogin.Shared.deps.json
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\bin\Debug\net7.0\BlazorLogin.Shared.dll
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\bin\Debug\net7.0\BlazorLogin.Shared.pdb
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.csproj.AssemblyReference.cache
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.AssemblyInfoInputs.cache
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.AssemblyInfo.cs
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.csproj.CoreCompileInputs.cache
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.dll
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\refint\BlazorLogin.Shared.dll
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\BlazorLogin.Shared.pdb
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Shared\obj\Debug\net7.0\ref\BlazorLogin.Shared.dll

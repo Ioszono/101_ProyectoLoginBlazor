@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dceA/vA1hr6b0NnUam7V6PvpLyhwG+Egh0YdWWLDDNgLFrPzcEhhrxPw/D9D/rahcUuERJhISJ50CsNYTDAtoA==",
+  "dgSpecHash": "PkLBZ3o4DOFC3bo0nUtNhuZ7NFE57KLEprQvPI+NkYWi+SvH5ZSKdV5zOqiJZc4cKZUKENia3xjJfkziq+zVQw==",
   "success": true,
-  "projectFilePath": "C:\\test\\BlazorLogin\\BlazorLogin\\Shared\\BlazorLogin.Shared.csproj",
+  "projectFilePath": "D:\\Codigos\\GITHUB\\Ejemplos\\101_ProyectoLoginBlazor\\BlazorLogin\\BlazorLogin\\Shared\\BlazorLogin.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
