@@ -842,8 +842,14 @@ E:\WorkSpaceAD\YOUTUBE\101_FUNCIONALIDAD LOGIN BLAZOR\BlazorLogin\BlazorLogin\Cl
 E:\WorkSpaceAD\YOUTUBE\101_FUNCIONALIDAD LOGIN BLAZOR\BlazorLogin\BlazorLogin\Client\obj\Debug\net7.0\refint\BlazorLogin.Client.dll
 E:\WorkSpaceAD\YOUTUBE\101_FUNCIONALIDAD LOGIN BLAZOR\BlazorLogin\BlazorLogin\Client\obj\Debug\net7.0\BlazorLogin.Client.pdb
 E:\WorkSpaceAD\YOUTUBE\101_FUNCIONALIDAD LOGIN BLAZOR\BlazorLogin\BlazorLogin\Client\obj\Debug\net7.0\ref\BlazorLogin.Client.dll
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
 D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
 D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\Blazored.SessionStorage.dll
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\BlazorLogin.Client.dll
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\BlazorLogin.Client.pdb
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\BlazorLogin.Shared.dll
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\BlazorLogin.Shared.pdb
+D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.18.qzryrx54hg.js
 D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
 D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
 D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\icudt.dat
@@ -1042,12 +1048,6 @@ D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Clien
 D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
 D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
 D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
-D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
-D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\BlazorLogin.Client.dll
-D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\BlazorLogin.Client.pdb
-D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\BlazorLogin.Shared.dll
-D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\BlazorLogin.Shared.pdb
-D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.18.qzryrx54hg.js
 D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
 D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
 D:\Codigos\GITHUB\Ejemplos\101_ProyectoLoginBlazor\BlazorLogin\BlazorLogin\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
